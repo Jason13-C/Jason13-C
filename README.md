@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Jason13</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jason13-C/Jason13-C/main/photo.png" alt="Моё фото" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Jason13-C/Jason13-C/main/photo.png" alt="Моё фото" width="1000" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
