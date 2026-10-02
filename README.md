@@ -53,8 +53,12 @@
 ### 📫 Связаться со мной
 
 <p>
-  <a href="https://t.me/твой_телеграм"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:твоя_почта@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:skeetov2134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-skeetov2134@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199216594944/">
+    <img src="https://img.shields.io/badge/Steam-Профиль-171A21?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
 </p>
 
 ---
